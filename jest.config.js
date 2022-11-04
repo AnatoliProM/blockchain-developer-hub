@@ -6,6 +6,7 @@ const createJestConfig = nextJest({
 });
 
 // Add any custom config to be passed to Jest
+// Adding new function
 const customJestConfig = {
   // Add more setup options before each test is run
   // setupFilesAfterEnv: ['<rootDir>/jest.setup.js'],

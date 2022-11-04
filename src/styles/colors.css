@@ -74,7 +74,7 @@
 
   --bg-gradient: radial-gradient(57.03% 57.03% at 50% 0%, rgba(202, 255, 130, 0.1) 0%, rgba(55, 166, 103, 0.016) 100%);
 
-  /* Old design Colors starts here */
+  /* Old design colors starts */
 
   --primary-50-color: #F6FDFF;
   --primary-100-color: #D5F6FF;
@@ -148,5 +148,5 @@
   --neural-variant-900-color: #293234;
   --neural-variant-950-color: #141D1F;
 
-  /* Old design Colors ends here */
+  /* Old design colors ends here */
 }

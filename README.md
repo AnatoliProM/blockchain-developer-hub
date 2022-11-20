@@ -6,8 +6,6 @@ Your roadmap to start web3 and blockchain development is here.
 
 ## Contribute to the content
 
-
-
 All content files are located in `./data` folder
 
 - Add new blockchain learning material to the `./data/learn.yaml`
